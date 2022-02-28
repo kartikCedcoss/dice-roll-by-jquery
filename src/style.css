@@ -1,0 +1,31 @@
+body{
+    background: linear-gradient(to right, rgb(81, 81, 185),rgb(190, 190, 85));
+}
+.maindiv{
+   width: 70%;
+   margin: auto;
+   text-align: center;
+}
+.userdice{
+    margin:0px 50px;
+    text-align: center;
+    display: inline-block;
+}
+img{
+    width:250px;
+}
+.btn{
+    margin: 3em ;
+    padding: 2em;
+    background: linear-gradient(to right,rgb(158, 158, 68),rgb(168, 62, 80));
+    border-radius: 30px;
+    color:white;
+    font-size: 20px;
+    font-weight: 900;
+
+}
+h1{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
